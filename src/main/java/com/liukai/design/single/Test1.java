@@ -9,4 +9,8 @@ public class Test1 {
     public static void main(String[] args) {
         Hungry hungry = Hungry.getInstance();
     }
+
+    private void test1() {
+        System.out.println("test1");
+    }
 }
