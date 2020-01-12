@@ -26,6 +26,7 @@ public abstract class Decorate extends Component{
      * @param
      * @return void
      */
+    @Override
     public void Operation() {
         System.out.println("Decorate 中执行原方法");
         if (null != component) {

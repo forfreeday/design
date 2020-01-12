@@ -9,6 +9,7 @@ package com.liukai.design.decorate;
  */
 public class ConcreteDecorateA extends Decorate{
 
+    @Override
     public void Operation() {
         System.out.println("ConcreteDecorateA 对 Component 进行增强");
         addedBehavior();

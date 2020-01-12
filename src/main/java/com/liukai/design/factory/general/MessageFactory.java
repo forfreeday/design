@@ -5,7 +5,7 @@ package com.liukai.design.factory.general;
  */
 public interface MessageFactory {
 
-    public abstract void sendMessage();
-    public abstract String getMessage();
+    void sendMessage();
+    String getMessage();
 
 }

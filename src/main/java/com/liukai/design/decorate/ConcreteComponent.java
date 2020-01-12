@@ -9,7 +9,7 @@ package com.liukai.design.decorate;
  */
 public class ConcreteComponent extends Component {
 
-
+    @Override
     void Operation() {
         System.out.println("Component - ConcreteComponent 执行方法");
     }
