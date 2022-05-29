@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-28T17:30:40.649Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="VfTcT1IaKH5mwxZLW92T" version="18.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-29T08:18:24.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="BAjBedL7LmKQscOvaMv3" version="18.0.7" type="github">
   <diagram id="LMtSPcPTrsCjuYfVOd2I" name="第 1 页">
-    <mxGraphModel dx="2253" dy="945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="GyiHiaxdAorwV-g95_st-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.02;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GyiHiaxdAorwV-g95_st-36" target="GyiHiaxdAorwV-g95_st-33">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GyiHiaxdAorwV-g95_st-53" value="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Leveldb&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="310" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GyiHiaxdAorwV-g95_st-36" value="SnapshotRoot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-80" y="320" width="120" height="60" as="geometry" />
@@ -54,6 +57,12 @@
         </mxCell>
         <mxCell id="GyiHiaxdAorwV-g95_st-49" value="Snapshot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="875" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GyiHiaxdAorwV-g95_st-55" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="650" as="sourcePoint" />
+            <mxPoint x="80" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
