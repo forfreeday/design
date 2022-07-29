@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T03:34:14.656Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OPfAh4KOAOppM51t98W4" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T04:00:19.969Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="5Tor-VwGdg_J6P3eHHVw" version="20.2.2" type="github">
   <diagram id="LMtSPcPTrsCjuYfVOd2I" name="第 1 页">
-    <mxGraphModel dx="2893" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2893" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -771,58 +771,76 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="7230" width="1350" height="270" as="geometry" />
+          <mxGeometry x="-200" y="7180" width="1350" height="270" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HMBPHfOuT05VZuh_tWL9-40" target="HMBPHfOuT05VZuh_tWL9-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-40" value="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SnapshotImpl 0&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="130.04" y="7300" width="150" height="100" as="geometry" />
+          <mxGeometry x="130.04" y="7250" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-41" value="Snapshot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="150" y="7310" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="7260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="HMBPHfOuT05VZuh_tWL9-43" target="HMBPHfOuT05VZuh_tWL9-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-43" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Optional&amp;lt;ISession&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="7300" width="185" height="100" as="geometry" />
+          <mxGeometry x="-150" y="7250" width="185" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HMBPHfOuT05VZuh_tWL9-45" target="HMBPHfOuT05VZuh_tWL9-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-45" value="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SnapshotImpl 1&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="7300" width="150" height="100" as="geometry" />
+          <mxGeometry x="350" y="7250" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-46" value="Snapshot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="360" y="7310" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="7260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HMBPHfOuT05VZuh_tWL9-48" target="HMBPHfOuT05VZuh_tWL9-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-48" value="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SnapshotImpl 2&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="7300" width="150" height="100" as="geometry" />
+          <mxGeometry x="545" y="7250" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-49" value="Snapshot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="555" y="7310" width="120" height="60" as="geometry" />
+          <mxGeometry x="555" y="7260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HMBPHfOuT05VZuh_tWL9-51" target="HMBPHfOuT05VZuh_tWL9-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-51" value="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SnapshotImpl ···&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="730" y="7300" width="150" height="100" as="geometry" />
+          <mxGeometry x="730" y="7250" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-52" value="Snapshot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="740" y="7310" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="7260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-53" value="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SnapshotImpl n&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="920" y="7300" width="150" height="100" as="geometry" />
+          <mxGeometry x="920" y="7250" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-54" value="Snapshot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="935" y="7310" width="120" height="60" as="geometry" />
+          <mxGeometry x="935" y="7260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HMBPHfOuT05VZuh_tWL9-55" value="SessionOptional" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=6;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="460" y="7430" width="210" height="40" as="geometry" />
+          <mxGeometry x="460" y="7380" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HMBPHfOuT05VZuh_tWL9-77" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="7680" width="1350" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="HMBPHfOuT05VZuh_tWL9-79" value="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;SnapshotImpl 0&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="185" y="7750" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HMBPHfOuT05VZuh_tWL9-80" value="Snapshot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="204.95999999999998" y="7760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HMBPHfOuT05VZuh_tWL9-81" value="setValue" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;" edge="1" parent="1" source="HMBPHfOuT05VZuh_tWL9-82" target="HMBPHfOuT05VZuh_tWL9-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HMBPHfOuT05VZuh_tWL9-82" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Optional&amp;lt;ISession&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="7750" width="185" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="HMBPHfOuT05VZuh_tWL9-94" value="SessionOptional" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;strokeWidth=6;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="450" y="7880" width="210" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
