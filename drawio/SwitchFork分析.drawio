@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-31T09:44:40.251Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="uUTFCZCNFgbyKoM82YYx" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-31T12:48:37.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TfgJCMJU5ztSLKcZnqNj" version="20.2.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="701" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="912" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,23 +10,23 @@
         <mxCell id="kJdzf6EdsDRsMMQySTQ5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="kJdzf6EdsDRsMMQySTQ5-5" target="kJdzf6EdsDRsMMQySTQ5-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kJdzf6EdsDRsMMQySTQ5-5" value="0&lt;br&gt;hash:aaaabb" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="kJdzf6EdsDRsMMQySTQ5-5" value="0&lt;br&gt;hash:aaaabb0&lt;br&gt;genesis hash" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="230" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kJdzf6EdsDRsMMQySTQ5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="kJdzf6EdsDRsMMQySTQ5-6" target="kJdzf6EdsDRsMMQySTQ5-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kJdzf6EdsDRsMMQySTQ5-6" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="430" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="kJdzf6EdsDRsMMQySTQ5-6" value="1&lt;br&gt;hash:bcaaaabb1&lt;br&gt;parent hash: aaaabb0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="414" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kJdzf6EdsDRsMMQySTQ5-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="kJdzf6EdsDRsMMQySTQ5-8" target="kJdzf6EdsDRsMMQySTQ5-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kJdzf6EdsDRsMMQySTQ5-8" value="2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="630" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="kJdzf6EdsDRsMMQySTQ5-8" value="2&lt;br&gt;hash:aaaabb2&lt;br&gt;parent hash:bcaaaabb1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="610" y="150" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kJdzf6EdsDRsMMQySTQ5-10" value="3&lt;br&gt;hash:cccdddaa03" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="830" y="150" width="120" height="60" as="geometry" />
+        <mxCell id="kJdzf6EdsDRsMMQySTQ5-10" value="3&lt;br&gt;hash:cccdddaa03&lt;br&gt;parent hash:aaaabb2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="810" y="150" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kJdzf6EdsDRsMMQySTQ5-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kJdzf6EdsDRsMMQySTQ5-12" target="kJdzf6EdsDRsMMQySTQ5-19">
           <mxGeometry relative="1" as="geometry" />
@@ -55,7 +55,7 @@
         <mxCell id="kJdzf6EdsDRsMMQySTQ5-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kJdzf6EdsDRsMMQySTQ5-19" target="kJdzf6EdsDRsMMQySTQ5-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kJdzf6EdsDRsMMQySTQ5-19" value="5&lt;br&gt;hash:bbccdd15&lt;br&gt;parent hash:bbccdd41" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="kJdzf6EdsDRsMMQySTQ5-19" value="5&lt;br&gt;hash:bbccdd15&lt;br&gt;parent hash:bbccdd4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1280" y="50" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kJdzf6EdsDRsMMQySTQ5-21" value="5&lt;br&gt;hash:sfdaaaeec5&lt;br&gt;parent hash:aaaeec9a" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
@@ -67,7 +67,7 @@
         <mxCell id="kJdzf6EdsDRsMMQySTQ5-25" value="LatestBlockHash" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="835" y="120" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kJdzf6EdsDRsMMQySTQ5-29" value="分叉的首块的 parent hash 相同" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="kJdzf6EdsDRsMMQySTQ5-29" value="&lt;b&gt;分叉的首块的 parent hash 相同&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1040" y="5" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
