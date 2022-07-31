@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-31T09:44:08.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="uHf8Ss4BD3c9swCEwJ2U" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-31T09:44:21.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="a5WnC_vmpSJpkkMOFnfQ" version="20.2.2" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="701" dy="1584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,8 +67,8 @@
         <mxCell id="kJdzf6EdsDRsMMQySTQ5-25" value="LatestBlockHash" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="835" y="120" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kJdzf6EdsDRsMMQySTQ5-29" value="分叉的块的parent hash 相同" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="5" width="170" height="30" as="geometry" />
+        <mxCell id="kJdzf6EdsDRsMMQySTQ5-29" value="分叉的首块的 parent hash 相同" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="5" width="190" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
