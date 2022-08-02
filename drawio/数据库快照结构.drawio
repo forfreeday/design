@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-07-27T03:33:47.106Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8yxuk2rN78gkVy7-tltp" version="18.1.3" type="github"><diagram id="d-lJKOCr5DWwa61iQV_f" name="第 1 页">7ZbRbpswFIafBqmbVAnsAs3lSrquF5OmMWnS7hw4wV4NhxknkD79TDABCtE2qd12UbiI/R8b2/93DsGhUd7cKVbyj5iCdIibNg5dO4R4hLrmp1UOneKvaCdkSqR20CDE4hGsaOdlO5FCNRmoEaUW5VRMsCgg0RONKYX1dNgW5XTVkmUwE+KEybn6VaSad+o1CQf9A4iM9yt7waqL5KwfbE9ScZZiPZLorUMjhai7Vt5EIFvzel+6ee/PRE8bU1Do35lA9pvLNcMVD7/f37HH8Me37N2l3eyeyZ09sN2sPvQOKNwVKbQPcR16U3OhIS5Z0kZrw9xoXOfS9DzT3AopI5SojnPp1m/vVsdCj/TuMnqlFT7AKBIcLxOxGwOloTl7Yu/ko0lAwBy0OpghdgJxrfU292ifVPVAkoRW4yOKJLAis9mTnZ49GGwa1uM/8JvO/P6isIg1KpNemn+GPT6IIrt4e5TezGCYJCrbpjGBSQkSM8Vy41YJSpgdgnoa+zQEfs2ugb4CF1imbgJAlpj5ge+F8EzMrp4w8+fMvNUCM/pSyK5myNY3FxL2INPNfwXoVGzni8osmAqYlOLmeL8MPN9dgHf9N+EFM3j3fY0ZihFnotiw6rXQ2u6/ZhXOWMUFKytu/iBf6Sy9Bp+JjukOXyHH2Ohbjt7+BA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-02T09:49:20.732Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YejWdvUVSqUwbZ485oX6" version="20.2.2" type="github">
+  <diagram id="d-lJKOCr5DWwa61iQV_f" name="第 1 页">
+    <mxGraphModel dx="946" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2vb-Dao9h7jIGaz7qZgA-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="200" y="310" width="270" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="2vb-Dao9h7jIGaz7qZgA-3" value="&lt;i&gt;TronStoreWithRevoking(*Store)&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
+          <mxGeometry x="240" y="350" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vb-Dao9h7jIGaz7qZgA-4" value="&lt;i&gt;DB(leveldb)&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
+          <mxGeometry x="240" y="500" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vb-Dao9h7jIGaz7qZgA-6" value="&lt;i&gt;IRevokingDB(Chainbase)&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
+          <mxGeometry x="240" y="400" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2vb-Dao9h7jIGaz7qZgA-7" value="&lt;i&gt;Snapshot&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
+          <mxGeometry x="240" y="450" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
