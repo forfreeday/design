@@ -1,24 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T07:39:33.489Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="gsfqgYcqTP6uXXJrHmnW" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T07:54:41.224Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="c2zE4d76duTupAk8a5KB" version="20.2.2" type="github">
   <diagram id="d-lJKOCr5DWwa61iQV_f" name="第 1 页">
     <mxGraphModel dx="2893" dy="2228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2vb-Dao9h7jIGaz7qZgA-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="670" y="770" width="270" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="2vb-Dao9h7jIGaz7qZgA-3" value="&lt;i&gt;TronStoreWithRevoking(*Store)&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
-          <mxGeometry x="710" y="810" width="190" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2vb-Dao9h7jIGaz7qZgA-4" value="&lt;i&gt;DB(leveldb)&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" parent="1" vertex="1">
-          <mxGeometry x="700" y="970" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2vb-Dao9h7jIGaz7qZgA-6" value="&lt;i&gt;IRevokingDB(Chainbase)&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
-          <mxGeometry x="710" y="860" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2vb-Dao9h7jIGaz7qZgA-7" value="&lt;i&gt;Snapshot&lt;/i&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
-          <mxGeometry x="710" y="910" width="180" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="dLxj4Lnb35jxQKYbUd3e-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-63" y="-360" width="943" height="780" as="geometry" />
         </mxCell>
@@ -69,6 +54,47 @@
         </mxCell>
         <mxCell id="dLxj4Lnb35jxQKYbUd3e-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-390" y="-360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dLxj4Lnb35jxQKYbUd3e-40" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Store&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-383.25" y="622.5" width="933.25" height="577.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dLxj4Lnb35jxQKYbUd3e-45" value="&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;Menlo&#39;,monospace;font-size:13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: Menlo, monospace; font-size: 13.5pt;&quot;&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Chainbase(IRevokingDB)&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="770" width="800" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="dLxj4Lnb35jxQKYbUd3e-50" value="&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;Menlo&#39;,monospace;font-size:13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: Menlo, monospace; font-size: 13.5pt;&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Menlo, monospace; font-size: 13.5pt;&quot;&gt;&lt;br&gt;&lt;/pre&gt;&lt;pre style=&quot;font-family: Menlo, monospace; font-size: 13.5pt;&quot;&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;SnapshotRoot&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="800" width="740" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="dLxj4Lnb35jxQKYbUd3e-43" value="&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;Menlo&#39;,monospace;font-size:13.5pt;&quot;&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;LevelDB&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="810" width="690" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="dLxj4Lnb35jxQKYbUd3e-42" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;LevelDbDataSourceImpl" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="820" width="650" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dLxj4Lnb35jxQKYbUd3e-41" value="&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;Menlo&#39;,monospace;font-size:13.5pt;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;JniDB&lt;/span&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-209" y="830" width="588" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dLxj4Lnb35jxQKYbUd3e-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" edge="1" parent="1" source="dLxj4Lnb35jxQKYbUd3e-53" target="dLxj4Lnb35jxQKYbUd3e-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLxj4Lnb35jxQKYbUd3e-59" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Session&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="620" width="900" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="dLxj4Lnb35jxQKYbUd3e-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="dLxj4Lnb35jxQKYbUd3e-53" target="dLxj4Lnb35jxQKYbUd3e-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dLxj4Lnb35jxQKYbUd3e-53" value="&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;Menlo&#39;,monospace;font-size:13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: Menlo, monospace; font-size: 13.5pt;&quot;&gt;SnapshotImpl 1&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="730" y="860" width="207" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dLxj4Lnb35jxQKYbUd3e-57" value="&lt;pre style=&quot;background-color:#ffffff;color:#080808;font-family:&#39;Menlo&#39;,monospace;font-size:13.5pt;&quot;&gt;&lt;pre style=&quot;font-family: Menlo, monospace; font-size: 13.5pt;&quot;&gt;SnapshotImpl 2&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=2;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="1017" y="860" width="207" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dLxj4Lnb35jxQKYbUd3e-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=20;strokeWidth=3;" edge="1" parent="1" source="dLxj4Lnb35jxQKYbUd3e-50" target="dLxj4Lnb35jxQKYbUd3e-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="925" />
+              <mxPoint x="720" y="925" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
