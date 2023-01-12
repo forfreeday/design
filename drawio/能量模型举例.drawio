@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-12T23:38:55.155Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="fKi2WF9QAiDTnDcMTBIY" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-12T23:39:12.441Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="Oob1NPg5Qstg_LBzGyym" version="20.5.1" type="github">
   <diagram id="SrC4VH6lOz7VmCzOTrHH" name="第 1 页">
     <mxGraphModel dx="1426" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="bhglwZXVVEl7jcrbFOMm-2" value="270" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#23445d;strokeWidth=2;fontSize=30;fillColor=#bac8d3;" vertex="1" parent="1">
           <mxGeometry x="110" y="430" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bhglwZXVVEl7jcrbFOMm-3" value="能量消耗" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=30;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="370" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
