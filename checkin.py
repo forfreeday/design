@@ -14,7 +14,6 @@ cookie = os.environ["COOKIE"]
 def start():
     
     url= "https://glados.rocks/api/user/checkin"
-    url= "https://glados.rocks/console/checkin"
     url2= "https://glados.rocks/api/user/status"
     referer = 'https://glados.rocks/console/checkin'
     checkin = requests.post(url,headers={'cookie': cookie ,'referer': referer })
